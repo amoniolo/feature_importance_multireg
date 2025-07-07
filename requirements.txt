@@ -3,3 +3,5 @@ numpy
 sklearn.linear_model
 sklearn.preprocessing
 statsmodels.api
+plotly.express
+plotly.graph_objects
